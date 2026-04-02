@@ -275,6 +275,7 @@ print(text.endswith("amazing")) # True
 print(text.endswith("python")) # False
 
 print(text.endswith("is", 0, 9)) # False
+print(text.endswith("is", 0, 9)) # False
 
 
 
@@ -282,3 +283,5 @@ print(text.endswith("is", 0, 9)) # False
 
 
 
+
+#test
